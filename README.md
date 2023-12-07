@@ -1,1 +1,2 @@
-# Kinetic-Effect-on-Background-HTML
+# Kinetic-Effect-on-Background-HTML & CSS
+# Using Jquery
